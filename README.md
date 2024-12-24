@@ -1,4 +1,4 @@
-# DF-mystic-manuscript-project
+# DF Mystic Manuscript Project
 This was my first group project in the Digital Futures academy. This was the first time I ever used SQL and GitHub in a project. The setting of the project was that I worked for 'Data Dynamo Consultants' who gave me a project to hone my skills in data management and quality control. 
 
 ## Project Description

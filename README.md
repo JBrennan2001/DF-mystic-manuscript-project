@@ -11,7 +11,7 @@ We were provided with a dataset from a client called 'Mystic Manuscripts' and ou
     We needed to identify any errors or null values in the data. We communicated the issues with the data to the stakeholders at Mystic Manuscripts (the Digital Futures instructors).
   </li>
   <li> <b> Error Correction and Quality Control Form: </b>
-    Once the errors and inconsistencies in the data were identified, we corrected them and documented them in the quality control form ('Quality Control Form.docx'). We inserted SQL code to a shared file on Github to showcase the required quality control checks. We also performed a few extra quality checks ('Quality Control Extra Checks.sql').
+    Once the errors and inconsistencies in the data were identified, we corrected them and documented them in the quality control form ('Quality Control Form.docx'). We inserted SQL code to a shared repository on Github to showcase the required quality control checks [here](https://github.com/all-2410/mystic-manuscript-having/tree/main). We also performed a few extra quality checks ('Quality Control Extra Checks.sql').
   </li>
 </ol>
 Full project description: 'Project Introduction.docx'
